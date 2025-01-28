@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/4ec724a7-3543-4ddf-8ccc-05cecfee5366" alt="Top Image" width="600">
+<img src="https://github.com/user-attachments/assets/4ec724a7-3543-4ddf-8ccc-05cecfee5366" alt="Top Image">
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
